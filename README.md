@@ -47,6 +47,7 @@ Em resumo, enquanto a mesclagem é usada para combinar dados de diferentes fonte
 
 ## Diferença de Mesclar e Atribuir (por Curso)
 Atriburi - análogo inner join
+
 Mesclar - análogo ao diferentes JOINs
 
 ### Tarefas
@@ -56,9 +57,12 @@ Mesclar - análogo ao diferentes JOINs
   - Deve fazer um join, umas mescla de tabelas (preferencialmente nova). A partir desse JOIN (mescle) você pode fazer um relatório específico desse contexto (local-departament)
 15. Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir.
 
+
 # Arquivos do projeto
 
 - banco de dados sql
 - modelo powerBI
 - arquivo de tarefa
 
+
+**obs.** relatório simplificado da base de dado. Está distribuido em uma mesma página
